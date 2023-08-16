@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ManalKhAlbahar
-- 👀 I’m interested in Software development 
-- 🌱 I’m currently learning Javascript
+- software developer, Amman - Jordan JavaScript
 
 <!---
 ManalKhAlbahar/ManalKhAlbahar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
